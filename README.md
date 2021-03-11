@@ -1,2 +1,2 @@
 # did-method-matic
-DID Driver for Polygon (MATIC) 
+DID Method for Polygon (MATIC) 
